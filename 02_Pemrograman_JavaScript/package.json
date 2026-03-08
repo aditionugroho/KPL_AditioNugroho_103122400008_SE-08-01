@@ -1,0 +1,12 @@
+{
+  "name": "praktikum-kpl",
+  "version": "1.0.0",
+  "main": "02_Pemrograman_JavaScript/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 02_Pemrograman_JavaScript/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
