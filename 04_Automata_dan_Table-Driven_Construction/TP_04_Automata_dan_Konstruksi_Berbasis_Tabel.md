@@ -1,5 +1,5 @@
 Tugas Pendahuluan 04: Automata dan Konstruksi Berbasis Meja
-Nama : Aditio Nroho
+Nama : Aditio Nugroho
 NIM : 103122400008
 Kelas: SE0801
 
@@ -13,12 +13,10 @@ tersedia di Index.html , Index.css , Index.js
 
 Keluaran
 Tampilan awal:
-<img src="TP 04.png" alt="Contoh screenshot" width="400">
-
+<img src="TP/TP 04.png" alt="Contoh screenshot" width="400">
 
 Mode gelap:
-
-<img src="04 mode gelap.png" alt="Contoh screenshot" width="400">
+<img src="TP/04 mode gelap.png" alt="Contoh mode gelap" width="400">
 
 Deskripsi
 Program ini menampilkan perubahan warna yang ada dalam web Pengkorversian Gaya Teks.
